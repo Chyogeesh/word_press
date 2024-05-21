@@ -23,3 +23,21 @@ Building the Layout with Elementor:
 
 Use Elementor to build the page layout section by section, referring to the Ancora Creative Landing page for reference.
 Use Elementor's sections, columns, and widgets to achieve the desired structure.
+Animations (refer to plugin documentation):
+
+Elementor Pro or third-party animation libraries like GSAP offer animation capabilities. Explore their documentation for specific code examples.
+Important Notes:
+
+Use the provided assets (fonts, images, videos) in your implementation.
+Refer to the Ancora Creative Landing page for visual guidance on layout, colors, and animations.
+Elementor documentation offers detailed tutorials on building various layouts and adding functionality.
+Consider using child themes for customization without modifying core theme files.
+Delivery:
+
+Create a GitHub repository for your project.
+Once complete, you can deploy the website to a test domain or create a video walkthrough demonstrating the functionality.
+Share the GitHub repository link and deployment link/video with Anmol or Sakshi.
+Disclaimer:
+
+Remember to replace placeholders like path/to/your/image.jpg with actual file paths.
+Explore Elementor's documentation and tutorials for detailed implementation steps.
